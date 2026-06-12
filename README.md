@@ -1,4 +1,6 @@
-## Hi there 👋
+## GIANTBOAR
+
+I'm a programmer and games designer currently studying Computing Science at the UEA in Norwich
 
 <!--
 **GiantBoar/GiantBoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
